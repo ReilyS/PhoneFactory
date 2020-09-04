@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*  Author: Reily Stanford
+ *  Date: 09/04/2020
+ *  File: PhoneTypeChecker.cs
+ *  Desciption: This class has public variables for the type of PhoneFactory and the value of a given location in 
+ *              the enum MANUFACTURERS. It also has a constructor that sets the MANUFACTURERS variable value to 
+ *              a passed value and a void function that changes the set factory then prints the phones that
+ *              factory makes.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
